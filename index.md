@@ -4,3 +4,4 @@
 
 layout: home
 ---
+<img src="{{site.baseurl}}/assets/images/phi.png">
