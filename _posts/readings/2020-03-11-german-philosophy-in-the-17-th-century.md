@@ -1,9 +1,7 @@
 ---
-layout: post
 title: German philosophy in the 17th century
 date: 2020-03-11 17:40
 category: readings
-author:
 tags: []
 summary: 
 ---

@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Power, fiction and truth
 date: 2019-05-29 15:29
 category: readings
-author: 
 tags: []
 summary: 
 ---

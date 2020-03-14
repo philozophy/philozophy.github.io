@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "The gun is always guilty"
 date:   2019-08-11
 categories: in_the_news

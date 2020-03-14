@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Deductive and inductive reasoning
 date: 2019-04-12 15:53
 category: philo
-author: 
 tags: []
 summary: 
 ---

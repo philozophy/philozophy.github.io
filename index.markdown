@@ -4,7 +4,6 @@
 
 layout: home
 ---
-<img src="{{site.baseurl}}/assets/images/phi.png">
 <h3>This is a philosophy blog without too many thrills. What matters is the ideas.</h3>
 
 {%- assign latest_post = site.posts[0] -%}

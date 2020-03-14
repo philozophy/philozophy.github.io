@@ -1,9 +1,7 @@
 ---
-layout: post
-title: 
+title: Analyzing arguments
 date: 2019-05-12 15:58
 category: philo
-author: 
 tags: []
 summary: 
 ---

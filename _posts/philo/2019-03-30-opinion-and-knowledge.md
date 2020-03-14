@@ -1,9 +1,7 @@
 ---
-layout: post
 title: Opinion and knowledge
 date: 2019-03-30 15:48
 category: philo
-author: 
 tags: []
 summary: 
 ---

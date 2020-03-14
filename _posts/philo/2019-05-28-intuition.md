@@ -1,9 +1,7 @@
 ---
-layout: post
-title: Intuition
+title: Intuition is not reliable
 date: 2019-05-28 15:34
 category: philo
-author: 
 tags: []
 summary: 
 ---
