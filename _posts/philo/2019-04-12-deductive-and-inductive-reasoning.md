@@ -1,0 +1,10 @@
+---
+layout: post
+title: Deductive and inductive reasoning
+date: 2019-04-12 15:53
+category: philo
+author: 
+tags: []
+summary: 
+---
+I have been doing more reading and thinking about deductive and inductive reasoning since I wrote the two pages on these topics. I was left a bit puzzled after writing the page about inductive reasoning, because when we say "Socrates is a man; all men are mortals ; therefore Socrates is mortal", which is often given as a model of deductive reasoning, the argument could actually be said to be inductive, in the sense that "all men are mortals" is after all a premise based on observation. It could be the case that a man will be born tomorrow who would turn out to be immortal. We strongly believe that all men are mortal because there was never any contradictory observation, but it is actually just another observation of the world so far. So is this argument about Socrates deductive or inductive? As we have seen, the form of an argument alone is not a clear indicator of the deductive or inductive nature of an argument. So what makes an argument "deductive" or "inductive"? It seems it has to do with the nature of the premises. A perfectly good "deductive" argument can cross over into the "inductive" category if its premises are based on empirical observation. In fact, I am wondering if a dichotomy between "deductive" and "inductive" is useful, or if we should instead adopt another point of view about arguments. Maybe "inductive" and "deductive" are not mutually exclusive. "Deductive" would refer to the logical structure of an argument, whereas "inductive" would refer to the source of the truth of the premises, either in Nature or not. To continue on these topics, we will look at the analytic/synthetic, a priori/a posteriori and necessary/contingent dichotomies.

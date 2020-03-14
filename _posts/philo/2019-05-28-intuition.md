@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Intuition
-date: 2020-03-14 15:34
+date: 2019-05-28 15:34
 category: philo
 author: 
 tags: []

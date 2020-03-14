@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Thinking is hard
-date: 2020-03-14 15:36
+date: 2019-05-12 15:36
 category: philo
 author: 
 tags: []

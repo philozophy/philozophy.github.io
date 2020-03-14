@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Physics without mathematics
-date: 2020-03-14 15:35
+title: Physics without mathematics?
+date: 2019-06-24 15:35
 category: philo
 author: 
 tags: []

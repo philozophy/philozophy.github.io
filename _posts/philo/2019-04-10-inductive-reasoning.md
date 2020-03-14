@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inductive reasoning
-date: 2020-03-14 15:37
+date: 2019-04-10 15:37
 category: philo
 author: 
 tags: []

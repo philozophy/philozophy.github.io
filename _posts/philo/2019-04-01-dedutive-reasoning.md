@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Deductive reasoning
-date: 2020-03-14 15:31
+date: 2019-04-01 15:31
 category: philo
 author: 
 tags: []
