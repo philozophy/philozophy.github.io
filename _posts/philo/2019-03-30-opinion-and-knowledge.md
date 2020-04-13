@@ -1,7 +1,7 @@
 ---
 title: Opinion and knowledge
 date: 2019-03-30 15:48
-category: philo
+category: bash
 tags: []
 summary: 
 ---
