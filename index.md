@@ -1,0 +1,5 @@
+---
+layout: home
+author_profile: true
+---
+This is a philosophy blog, that explores different topics, according to the interests, or the mood, of the Philozopher.
