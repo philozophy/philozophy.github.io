@@ -1,1 +1,0 @@
-# philozophy.github.io

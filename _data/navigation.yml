@@ -4,3 +4,5 @@ main:
     url: /about/
   - title: "Tracks"
     url: /categories/
+  - title: "Tags"
+    url: /tags/
