@@ -1,7 +1,7 @@
 ---
 title: Thinking is hard
 date: 2019-05-12 15:36
-category: philo
+category: Epistemology
 tags: []
 summary: 
 ---

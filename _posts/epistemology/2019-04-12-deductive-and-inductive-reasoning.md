@@ -1,7 +1,7 @@
 ---
 title: Deductive and inductive reasoning
 date: 2019-04-12 15:53
-category: philo
+category: Epistemology
 tags: []
 summary: 
 ---

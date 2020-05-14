@@ -1,7 +1,7 @@
 ---
 title: Philo of Alexandria
 date: 2019-03-31 15:27
-category: readings
+category: [Short notes]
 tags: ["antiquity"]
 summary: 
 ---

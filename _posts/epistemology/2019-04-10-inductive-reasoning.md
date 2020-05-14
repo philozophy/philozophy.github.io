@@ -1,7 +1,7 @@
 ---
 title: Inductive reasoning
 date: 2019-04-10 15:37
-category: philo
+category: Epistemology
 tags: []
 summary: 
 ---

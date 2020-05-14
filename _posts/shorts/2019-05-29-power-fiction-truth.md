@@ -1,7 +1,7 @@
 ---
 title: Power, fiction and truth
 date: 2019-05-29 15:29
-category: readings
+category: [Short notes]
 tags: ["fake news"]
 summary: 
 ---

@@ -1,7 +1,7 @@
 ---
 title: Global warming
 date: 2020-03-12 19:54
-category: in_the_news
+category: "Current events"
 tags: ["global warming"]
 summary: 
 ---

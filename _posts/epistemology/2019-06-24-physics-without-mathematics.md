@@ -1,7 +1,7 @@
 ---
 title: Physics without mathematics?
 date: 2019-06-24 15:35
-category: philo
+category: Epistemology
 tags: []
 summary: 
 ---

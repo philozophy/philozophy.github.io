@@ -1,7 +1,7 @@
 ---
 title: Analyzing arguments
 date: 2019-05-12 15:58
-category: philo
+category: Epistemology
 tags: []
 summary: 
 ---
