@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "The Philozopher"
+  name             : # "The Philozopher"
   avatar           : /assets/images/img-dettaglio-pensatore-Rodin.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "The Philozopher is anonymous"
-  location         : "In the realm of ideas"
+  bio              : # "The Philozopher is anonymous"
+  location         : # "In the realm of ideas"
   email            :
   links:
     - label: "Email"
