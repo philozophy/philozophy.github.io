@@ -4,7 +4,31 @@ layout: archive
 
 {{ content }}
 
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
+<h3 class="archive__subtitle">{{ "Latest Post" }}</h3>
+
+<div class="{{ include.type | default: "list" }}__item">
+  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+{% for post in site.posts limit:1 %}
+  <h2 class="archive__item-title" itemprop="headline">
+      {% if post.link %}
+        <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+      {% else %}
+        <a href="{{ post.url | relative_url }}" rel="permalink">{{ post.title }}</a>
+      {% endif %}
+    </h2>
+    <p class="page__meta">
+    {{ post.date | date_to_long_string}} - {{ post.content | number_of_words }} words - <i class="far fa-clock" aria-hidden="true"></i> {% include read-time.html %}
+    </p>
+  <div class="single">
+    {{ post.content }}
+  </div>
+{% endfor %}
+</article>
+</div>
+
+<H1 align="right">&#8718;</H1>
+
+<h3 class="archive__subtitle">{{ "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
