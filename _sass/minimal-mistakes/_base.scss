@@ -127,7 +127,7 @@ blockquote {
 /* links */
 
 a {
-  color: #000;
+  color: rgb(134, 36, 36);
   text-decoration: none;
 
   &:focus {
@@ -135,11 +135,11 @@ a {
   }
 
   &:visited {
-    color: $link-color-visited;
+    color: rgb(112, 109, 109);//$link-color-visited;
   }
 
   &:hover {
-    color: $link-color-hover;
+    color: rgb(47, 85, 47); //$link-color-hover;
     text-decoration: underline;
     outline: 0;
   }
