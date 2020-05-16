@@ -6,7 +6,7 @@ main:
     url: /categories/
   - title: "Tags"
     url: /tags/
-  - title: "All Posts"
+  - title: "By Year"
     url: /posts/
   - title: "Vocabulary"
     url: /vocabulary/
