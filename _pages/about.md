@@ -1,7 +1,8 @@
 ---
-layout: posts
+layout: single
 title: About
 permalink: /about/
+author_profile: true
 ---
 
 Dear Reader,

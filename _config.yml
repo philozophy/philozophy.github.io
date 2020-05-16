@@ -16,12 +16,12 @@ minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "default"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Philozophy"
+title                    : "Philozophy" #"Φιλοσοφία"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "The Philozopher"
+subtitle                 : #"Philozophy" # site tagline that appears below site title in masthead
+name                     : "Philozophy"
 description              : "A philosophy blog"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://philozophy.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -96,7 +96,7 @@ author:
   name             : # "The Philozopher"
   avatar           : /assets/images/img-dettaglio-pensatore-Rodin.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : # "The Philozopher is anonymous"
-  location         : # "In the realm of ideas"
+  location         : # "@ Ideas"
   email            :
   links:
     - label: "Email"
