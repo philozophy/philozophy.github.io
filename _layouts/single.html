@@ -16,7 +16,68 @@ layout: default
 
 <div id="main" role="main">
   {% include sidebar.html %}
-
+  <style> 
+    /* @font-face {
+      font-family: "Caslon"; 
+      font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+      src: url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.eot"); 
+      src: url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.eot?#iefix") format("embedded-opentype"), 
+      url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.woff2") format("woff2"), 
+      url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.woff") format("woff"), 
+      url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.ttf") format("truetype"), 
+      url("//db.onlinewebfonts.com/t/22bd8660c8d0b70ac3e9d024f7f2c31d.svg#Caslon") format("svg"); 
+    }
+      
+    @font-face {
+      font-family: "My Hoefler Text";
+      font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+      text-rendering: optimizeLegibility;
+      src: url("/assets/fonts/Hoefler-Text_Regular.woff2") format("woff2");
+    }
+    
+    @font-face {
+      font-family: "Clicker Script"; 
+      src: url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.eot"); 
+      src: url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.eot?#iefix") format("embedded-opentype"), 
+      url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.woff2") format("woff2"), 
+      url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.woff") format("woff"), 
+      url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.ttf") format("truetype"), 
+      url("//db.onlinewebfonts.com/t/b5cae760e3ebeb67aed58508b5ae4269.svg#Clicker Script") format("svg"); } */
+    
+    p {
+       font-family: "Hoefler Text";
+       font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;
+    }
+    .dropcap {
+      float:left;
+      font-size:320%;
+      margin-top:-10px;
+      margin-right:5px;
+      color:#8C8273;
+    }
+    .drop{
+      display:block;
+      float:left;
+      width:72px;
+      height:72px;
+      margin-top:0px;
+      padding-right:8px;
+      text-indent: -9000px;
+    }
+    .M{
+      background: url("/assets/images/dropcaps/M.png") 0 0 no-repeat;
+      width: 72px;
+    }
+    /* p:first-child::first-letter {
+      display: inline-block;
+      float:left;
+      font-size: 350%;
+      margin-top: -14px; 
+      margin-bottom: -14px;
+      margin-right: 5px;
+      color:#8C8273;
+    } */
+  </style>
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     {% if page.title %}<meta itemprop="headline" content="{{ page.title | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
