@@ -7,7 +7,7 @@ summary:
 ---
 Man asks a lot of questions. How did the Universe come into being? Why is there Being at all? How should we live our lives and conduct ourselves? Is there an absolute morality, rules of conduct that would be good for all and all times? Is there anything beyond what we can see? We want to know if there exists something beyond what we can see. What happens after we die?
 
-But should tbose questions have answers? It is one thing to ask, but why should all questions have answers? We desperately want to know, but there is no reason our craving should be fulfilled.
+But should those questions have answers? It is one thing to ask, but why should all questions have answers? We desperately want to know, but there is no reason our craving should be fulfilled.
 
 We can look for answers, and maybe that is what it means to be human: asking questions and looking for answers. This may be fruitful sometimes. For some questions about the workings of Nature, we have been able to find answers. For example, we have obtained a better understanding of how our body works and devised treatments and drugs that alleviate our miseries. We have been able to understand how electricity works and derived many comfortable benefits from this understanding. Usually, useful answers have been found via rational thinking, observation, experiments, confrontation of our ideas with reality, a continuous struggle to adjust our ideas to reality - and in limited contexts: asking how electricity works is a far cry from ultimate questions, such as how the Universe came into being. 
 
