@@ -111,6 +111,10 @@ body {
     font-size: 16px;
   }
 
+  p:first-child:first-letter {
+    initial-letter: 2;
+  }
+
   /* paragraph indents */
   p {
     margin: 0 0 $indent-var;
