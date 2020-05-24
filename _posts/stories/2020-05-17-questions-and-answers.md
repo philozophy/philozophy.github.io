@@ -1,11 +1,11 @@
 ---
 title: Questions and answers
 date: 2020-05-17 10:00 am
-category: Epistemology
-tags: []
+category: Stories
+tags: [opinion, stories]
 summary: 
 ---
-Man asks a lot of questions. How did the Universe come into being? Why is there Being at all? How should we live our lives and conduct ourselves? Is there an absolute morality, rules of conduct that would be good for all and all times? Is there anything beyond what we can see? What happens after we die?
+We ask a lot of questions. How did the Universe come into being? Why is there Being at all? How should we live our lives and conduct ourselves? Is there an absolute morality, rules of conduct that would be good for all and all times? Is there anything beyond what we can see? What happens after we die?
 
 But should those questions always have answers? It is one thing to ask, but why should all questions have answers? We desperately want to know, but there is no reason our craving should be satisfied.
 
