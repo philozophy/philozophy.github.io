@@ -2,7 +2,9 @@
 title: The Argument from Incredulity
 category: "Short notes"
 tags: fallacies
-continuation: This may not necessarily be a bad thing, for example when the stories are later examined and possibly discarded if not appropriate anymore, or if the stories one believes allows them to lead a more peaceful life. 
+comment: A possible continuation would be that making stories may not necessarily be a bad thing, for example when the stories are later examined and possibly discarded if not appropriate anymore, or if the stories one believes allows them to lead a more peaceful life. 
+comment: So hard to make ideas clear. 
+comment: I don't really want to give the impression I'm denigrating religion all the time, but it seems the posts recently always end up as some sort of criticism or religion. Well, God is quite a big story (true or not, that is not the point), so maybe it's hard to avoid coming back to it.
 ---
 
 Also called "appeal to common sense", this fallacy occurs when someone concludes that something is (or is not) the case, or that something exists (or does not exist) simply because they cannot understand or explain it, or they don't believe it, or it runs counter to their intuition or their expectations. Essentially, the person concludes that a proposition is false because they cannot personally see how it could be true (or vice-versa). But of course, not being able to understand something does not give any information about whether a statement is, in fact, true (or false). 
