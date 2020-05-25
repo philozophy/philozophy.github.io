@@ -1,9 +1,9 @@
 ---
-title:  "The gun is always guilty"
-date:   2019-08-11
+title: The gun itself is always guilty
+date: 2019-08-11
 last_modified_at: 2020-05-15
 categories: [Current events]
-tags: ["guns", "bad arguments"]
+tags: [guns, "bad arguments"]
 ---
 
 When mass shootings occur in the US, an frequent argument of the gun lobby is that the weapons are not the issue, because, the guns don't shoot from their own volition. Someone has to pull the trigger. That someone is the guilty party, not the gun. Therefore, there is no need to limit the number of guns. 

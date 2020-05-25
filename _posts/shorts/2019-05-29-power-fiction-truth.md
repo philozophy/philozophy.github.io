@@ -2,7 +2,7 @@
 title: Power, fiction and truth
 date: 2019-05-29 15:29
 category: [Short notes]
-tags: ["fake news"]
+tags: [stories]
 summary: 
 ---
 Just a quick comment on Yuval Noah Harari's recent post on the New York Times The Stone philosophy column. In that post, Mr Harari makes the point that fiction (including "fake news" in today's context), is more potent than truth in order to mobilize people, by manipulating their beliefs. Truth is necessary to wield power; after all, it's hard to avoid the law of gravitation. However, in a sense, fiction is more important because it is the key to leveraging the masses. 

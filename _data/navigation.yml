@@ -8,5 +8,5 @@ main:
     url: /tags/
   - title: "By Year"
     url: /posts/
-  - title: "Vocabulary"
-    url: /vocabulary/
+  - title: "More"
+    url: /more/
