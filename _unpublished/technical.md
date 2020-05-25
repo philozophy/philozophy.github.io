@@ -1,4 +1,40 @@
- <style> 
+Technical tidbits useful for the site.
+
+## Feedburner
+http://feeds.feedburner.com/Philozophy
+
+## Fonts
+https://www.onlinewebfonts.com/search?q=Caslon
+
+- public health and liberty:
+  - specific examples: church closures, lockdowns for covid 19
+  - show why we won't find rational grounds to decide that question:
+    - probabilities, future, subjective risk affinity
+- fallacies
+- stories
+
+## Transcribing podcasts to text
+It does not work, the result requires too much editing.
+
+The software you can use is Vosk-api, a modern speech recognition toolkit based on neural networks. It supports 7+ languages and works on variety of platforms including RPi and mobile.
+
+First you convert the file to the required format and then you recognize it:
+
+ffmpeg -i file.mp3 -ar 16000 -ac 1 file.wav
+Then install vosk-api with pip:
+
+pip3 install vosk
+Then use these steps:
+
+git clone https://github.com/alphacep/vosk-api
+cd vosk-api/python/example
+wget https://github.com/alphacep/kaldi-android-demo/releases/download/2020-01/alphacep-model-android-en-us-0.3.tar.gz
+tar xf alphacep-model-android-en-us-0.3.tar.gz 
+mv alphacep-model-android-en-us-0.3 model-en
+python3 ./test_simple.py file.wav > file.json
+
+## CSS snippet for handling fonts
+<style> 
     /* @font-face {
       font-family: "Caslon"; 
       font-variant-ligatures: common-ligatures discretionary-ligatures historical-ligatures contextual;

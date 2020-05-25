@@ -7,7 +7,12 @@ toc: true
 <hr class="rounded">
 <h3 align="center" id="aporia">Aporia</h3>
 A difficulty or impossibility in solving a philosophical problem. A rather important term, because thinking about philosophical problems often ends up in aporia, at least when the thinking relies on reason.
-<li><a href="https://en.wikipedia.org/wiki/aporia">Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Aporia">Wikipedia</a></li>
+
+<hr class="rounded">
+<h3 align="center" id="conatus">Conatus</h3>
+Innate inclination of a thing to continue to exist and enhance itself, in early philosophies of psychology and metaphysics.
+<li><a href="https://en.wikipedia.org/wiki/Conatus">Wikipedia</a></li>
 
 <hr class="rounded">
 <h3 align="center" id="epistemology">Epistemology</h3>
