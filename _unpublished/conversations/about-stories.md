@@ -1,39 +1,3 @@
-Conversations with readers of the blog.
-
-### Conversation
-I liked the first part - but I think you posted it into the wrong track
-The second-to-last paragraph feels like you're trying to say, "Be an atheist" without using the word 'religion' - though maybe now I'm being presumptive because of our previous conversations!
-Which is a personal opinion, not really a discussion of a philosophical idea
-Though I guess it is Epistemology...
-The spirit of the post reminded me of Protagoras, the Sophist
-"You can't know for sure whether your stories are correct or not, so you shouldn't enforce them on others."
-The part un-said is, "That's the job of the state!"
-Today at 12:32 PM
-ah yes - it's not the right track
-you might be correct about the second to last paragraph, but I think it's broader - but you might not be incorrect
-and you are saying I'm a sophist! now that's bad
-the job of the state?
-I think the second to last is still philosophy, in that I am proposing a way of being in the world
-I am partly proposing an answer to the perennial question of "how we should conduct our lives"
-of course, any solution uttered by one person is going to be their opinion
-unless there is an absolute, universal solution
-which at present is not really forthcoming
-the second to last is highly philosophical, though yes, it presents one position - one could argue that it is ok to lead your life on made up stories. One could argue that some stories have more merits than others (science has proven to work much better for medicine than religion). One could argue that we are story creatures, and that stories are a political currency. One could argue that some stories hurt us, while some help us. All things I do intend to explore in further posts.
-
-### Conversation
-[19:53, 5/18/2020] Philozopher: le seul domaine ou on essaie d'enlever l'opinon, c'est la science
-[19:53, 5/18/2020] Philozopher: c'est d'ailleurs la caracteristique fondamentale de l'histoire qu'elabore la science
-
-### Conversation
-I'm getting more pushback that my second to last paragraph is opinion
-I think it ruffles quite a few feathers
-and also, that philosophy has a fair bit of opinion in it in general
-the only place where we really weed out opinion is in science
-where we replace opinion by verification against Nature
-otherwise, there is little objectivity out there
-if you notice, Plato purports to have a method when examining various questions, which would be better than mere opinion, but I'm not sure the conclusions of the dialogues are always "objective" - when they even have a conclusion
-if we always require objectivity from philosophy, it's going to be quite limited - and in fact, we are going to do science, and not philosophy, I'm afraid
-
 ### Conversation
 I want to talk about stories we make
 we are creatures that live by stories is my point
@@ -135,6 +99,15 @@ It's a story of the future.
 The thing that science can do tagt mythology cannot is male predictions about the future.
 About things we have not obesevrs so far.
 
-
-
-
+### Conversation
+[13:53, 5/25/2020] Philozopher je veux en arriver au fait que nos "histoires" sont des "modeles" pour comprendre le monde
+[13:54, 5/25/2020] Philozopher je vais faire ca a travers plusieurs posts
+[13:54, 5/25/2020] Philozopher ca vous parait bien? interessasnt?
+[13:54, 5/25/2020] Philozopher ou completement nul?
+[13:54, 5/25/2020] Philozopher va y avoir du ML en comparaison
+[13:55, 5/25/2020] Philozopher plus tard
+[14:20, 5/25/2020] Philozopher ma these centrale c'est qu'on fait des modeles pour comprendre le monde, comme en ML, même si ces modeles sont des "histoires" plutôt que des modeles mathematiques
+[14:21, 5/25/2020] Philozopher apres on peut parler des caracteristiques des diverses histoires, de quelles histoires sont acceptables pour vivre ensemble, si certaines histoires ont des avantages sur d'autres
+[14:21, 5/25/2020] Philozopher on peut appliquer a la politique, a la psychologie ...
+[14:22, 5/25/2020] Philozopher on peut se demander s'il y a de vraies differences entres les modeles qu'on a dans nos tetes et le ML - donc si on est très differents des machines
+[14:22, 5/25/2020] Philozopher et ainsi de suite
