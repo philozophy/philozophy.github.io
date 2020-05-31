@@ -1,4 +1,5 @@
 - stories: divertissement pascalien
 - stories: biologically hardwired, two brains, brain plasticity, motor neurons, orientation in the dark, the sentence with 2 THE where we see only one, the scrambled words that we can still read
 - rationality: we look for reasons
+- stories in psychotherapy
 - probabilities about the future: they may drive action, but they don't provide knowledge. They reassure.
