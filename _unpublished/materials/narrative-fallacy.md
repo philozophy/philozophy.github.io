@@ -1,6 +1,15 @@
-<!-- An article that prompted post about the narrative fallacy
- https://fs.blog/2016/04/narrative-fallacy/ -->
- 
+---
+title: The Narrative Fallacy
+category: "Short notes"
+tags: fallacies
+note: The original articles used to write the entry The Narrative Fallacy
+---
+
+<!-- 
+An article that prompted post about the narrative fallacy
+ https://fs.blog/2016/04/narrative-fallacy/ 
+-->
+
 <p style="display: none;">
 
 Avoiding Falling Victim to The Narrative Fallacy
@@ -134,7 +143,9 @@ Lastly, the final prescription comes from Taleb himself; the progenitor of the i
 This recognition and respect of the power of our minds to invent and love stories can help us reduce our misunderstanding of the world.
 </p>
 
-<!-- Another article: https://jacklimpert.com/2018/04/jeff-bezos-talks-about-writing-and-the-narrative-fallacy/ -->
+<!-- 
+Another article: https://jacklimpert.com/2018/04/jeff-bezos-talks-about-writing-and-the-narrative-fallacy/ 
+-->
 <p style="display: none;">
 Jeff Bezos Talks About Writing and the Narrative Fallacy
 April 11, 2018
