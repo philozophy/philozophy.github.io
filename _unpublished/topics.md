@@ -8,6 +8,8 @@
 - stories: stopping stories and zen
 - stories: models are the unifying idea, and training and inference, and playing back through the model
 
+- ML: what it is, and how we try to make the machine intelligent
+
 - rationality: we look for reasons
 
 - probabilities about the future: they may drive action, but they don't provide knowledge. They reassure.
