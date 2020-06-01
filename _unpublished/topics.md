@@ -1,4 +1,4 @@
-- stories: divertissement pascalien
+- stories: divertissement paszcalien
 - stories: biologically hardwired, two brains, brain plasticity, motor neurons, orientation in the dark, the sentence with 2 THE where we see only one, the scrambled words that we can still read
 - stories in psychotherapy, stories about the past, in delusion
 - stories that help us, stories that hurt us
