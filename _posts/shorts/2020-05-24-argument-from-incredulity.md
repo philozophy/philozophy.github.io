@@ -1,7 +1,7 @@
 ---
 title: The Argument from Incredulity
 category: "Short notes"
-tags: fallacies
+tags: [fallacies, stories]
 comment: A possible continuation would be that making stories may not necessarily be a bad thing, for example when the stories are later examined and possibly discarded if not appropriate anymore, or if the stories one believes allows them to lead a more peaceful life. 
 comment: So hard to make ideas clear. 
 comment: I don't really want to give the impression I'm denigrating religion all the time, but it seems the posts recently always end up as some sort of criticism or religion. Well, God is quite a big story (true or not, that is not the point), so maybe it's hard to avoid coming back to it.

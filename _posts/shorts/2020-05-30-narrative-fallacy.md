@@ -1,7 +1,7 @@
 ---
 title: The Narrative Fallacy
 category: "Short notes"
-tags: fallacies
+tags: [fallacies, stories]
 comment: Note also how a narrative tends to simplify a series of events, and can act as a summary, or a "model". Joey's story is now an instance of the general narrative of murderers motivated by money, a story to which we have had plenty of exposure in movies and books, we know the arc of that story if not the details, and maybe we'll just classify Joey's series of events under that storyline in our memory, and when we'll want to recall it, we'll just supply inferred details rather than the exact details. It is more economical to remember it that way. Taleb uses the expression "dimension reduction", which we also find in machine learning. a machine learning model abstracts out a "summary" model from a series of facts, condenses the facts into an average blueprint, which is smaller and easier to manipulate. Science in fact does the same too. it builds models of the world, finds general laws that relate a multiplicity of events into a "narrative" that we can consume and use.
 comment: We use that all the time, consciously and unconsciously, our biology already does that for us. It is easy to find your way in the rooms of your place in the dark, because you have navigated the place so often that your brain has built a model of it, and uses that model to anticipate where you are and where you are going to be. 
 ---
