@@ -3,7 +3,7 @@
 - stories in psychotherapy, stories about the past, in delusion
 - stories that help us, stories that hurt us
 - stories that have personal scope or universal scope
-- stories that have a validation, and stories that can't be validated, 2 modes of validation, experimental or logical
+- stories: can reasonable stories and religious stories coexist
 - stories: limit the stories and live with not knowing, or use stories, but remember that they are arbitrary
 - stories as our model of the world
 - stories: stopping stories and zen
