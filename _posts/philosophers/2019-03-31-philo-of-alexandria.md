@@ -2,7 +2,7 @@
 title: Philo of Alexandria
 date: 2019-03-31 15:27
 category: [Short notes]
-tags: [antiquity]
+tags: [antiquity, judaism]
 comment: Fast-forwarding to the twentieth century, in Jung, logos represents reason, or the conscious activity of the mind, as opposed to the unconscious, as if the demarcation between the unconscious and the conscious was the presence or absence of a clearly articulated language, as if consciousness could be equated with language/logos. Humans can’t be separated from language, language is fundamental to us in a deep sense, we are becoming humans only when we start to formulate thoughts into language. We become our own demiurges through logos. 
 
 ---
